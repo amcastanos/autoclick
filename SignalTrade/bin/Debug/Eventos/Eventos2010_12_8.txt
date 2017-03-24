@@ -1,0 +1,9 @@
+
+10:49:11 a.m.: 'C:\Documents and Settings\Administrador\Escritorio\Signal\SignalServidor\Signal.accdb' no es una ruta de acceso válida. Asegúrese de que la ruta está escrita correctamente y que está conectado al servidor donde se encuentra el archivo.cs:línea 46
+10:49:11 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 32
+10:49:13 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 518
+10:49:30 a.m.: 'C:\Documents and Settings\Administrador\Escritorio\Signal\SignalServidor\Signal.accdb' no es una ruta de acceso válida. Asegúrese de que la ruta está escrita correctamente y que está conectado al servidor donde se encuentra el archivo.cs:línea 46
+10:49:30 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 32
+10:49:31 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 518

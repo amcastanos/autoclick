@@ -1,0 +1,22 @@
+
+09:16:02 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 412
+09:16:59 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 412
+09:23:25 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 416
+09:38:32 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 416
+09:46:37 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 416
+09:49:36 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 416
+10:09:13 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 416
+10:32:00 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 416
+10:40:55 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 416
+11:03:20 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 421
+11:56:54 a.m.: El valor no puede ser nulo.
+Nombre del parámetro: items:línea 208
+12:35:42 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 443
+12:39:04 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 443
+12:41:02 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 443
+12:46:28 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 443
+12:47:52 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 443
+12:49:08 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 443
+12:50:27 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 443
+12:53:50 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 443
+12:55:29 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 443

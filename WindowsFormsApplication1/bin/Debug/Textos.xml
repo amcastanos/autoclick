@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Textos>
+<Recordar>Recordar Clave</Recordar>
+<Instrucciones>Instrucciones</Instrucciones>
+<Espera>Esperando</Espera>
+<Compra>Compra</Compra>
+<Venta>Venta</Venta>
+<NoTrade>No Operar</NoTrade>
+<Stop>Stop Loss en 0</Stop>
+<Cerrar4>Cerrar cuarto de posición</Cerrar4>
+<Cerrar2>Cerrar media posición</Cerrar2>
+<Cerrar>Alerta!, cerrar toda la posición</Cerrar>
+<Minutos3>Atencion!: 3 minutos faltan para que el dato sea liberado</Minutos3>
+<Minutos1>Atencion!: 1 minuto falta para que el dato sea liberado</Minutos1>
+<Desviacion>Desviacion</Desviacion>
+<Hora>Hora New York</Hora>
+<Despedida>Te veo en la siguiente noticia, gracias y saludos!</Despedida>
+<PlanT>Plan de Trabajo</PlanT>
+<Calen>Calendario Semanal</Calen>
+</Textos>

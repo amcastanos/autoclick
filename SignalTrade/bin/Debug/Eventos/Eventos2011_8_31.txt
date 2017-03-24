@@ -1,0 +1,166 @@
+
+09:37:59 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 47
+09:38:00 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+09:39:21 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 47
+09:39:21 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+09:39:29 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 514
+09:40:04 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 47
+09:40:44 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+09:41:37 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 47
+09:46:28 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 47
+09:46:28 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+09:46:31 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 514
+09:47:02 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 47
+09:47:09 a.m.: Referencia a objeto no establecida como instancia de un objeto.cs:línea 79
+09:47:11 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 514
+09:48:21 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 47
+09:50:41 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 47
+09:51:14 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 47
+09:55:18 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 47
+09:55:18 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+09:55:21 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 514
+09:58:14 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 47
+09:58:14 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+09:58:16 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 514
+10:02:16 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 49
+10:02:16 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+10:02:22 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 516
+10:03:11 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 47
+10:03:11 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+10:03:13 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 517
+10:11:03 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 49
+10:11:04 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+10:12:12 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 49
+10:12:12 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+10:12:34 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 519
+10:12:56 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 48
+10:12:56 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+10:13:00 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 518
+10:13:54 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 48
+10:13:54 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+10:14:00 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 518
+10:21:26 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 53
+10:21:26 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+10:22:05 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 53
+10:22:05 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+10:22:12 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 523
+10:28:17 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 53
+10:28:18 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+10:28:21 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 523
+10:28:37 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 53
+10:28:37 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+10:28:48 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 523
+10:29:05 a.m.: El ejecutable especificado no es una aplicación válida para esta plataforma de sistema operativo.cs:línea 49
+10:29:06 a.m.: Referencia a objeto no establecida como instancia de un objeto.cs:línea 30
+10:29:10 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 523
+10:29:14 a.m.: El ejecutable especificado no es una aplicación válida para esta plataforma de sistema operativo.cs:línea 49
+10:29:14 a.m.: Referencia a objeto no establecida como instancia de un objeto.cs:línea 30
+10:29:40 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 49
+10:29:40 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+10:29:44 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 519
+10:30:11 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 49
+10:30:11 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+10:30:18 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 519
+10:34:49 a.m.: El sistema no puede encontrar el archivo especificadocs:línea 46
+10:34:49 a.m.: Referencia a objeto no establecida como instancia de un objeto.cs:línea 30
+10:35:50 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 362
+10:36:51 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 362
+10:37:52 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 362
+10:38:52 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 362
+10:39:31 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 519
+10:39:36 a.m.: El sistema no puede encontrar el archivo especificadocs:línea 46
+10:39:36 a.m.: Referencia a objeto no establecida como instancia de un objeto.cs:línea 30
+10:39:38 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 519
+10:39:52 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 49
+10:39:52 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+10:41:57 a.m.: El sistema no puede encontrar el archivo especificadocs:línea 46
+10:41:57 a.m.: Referencia a objeto no establecida como instancia de un objeto.cs:línea 30
+10:42:01 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 519
+10:42:47 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 49
+10:42:47 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+10:42:52 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 519
+10:43:11 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 48
+10:43:11 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+10:43:14 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 518
+10:45:49 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 48
+10:45:49 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+10:46:11 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 48
+10:46:11 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+10:46:18 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 518
+10:46:53 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 48
+10:46:53 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+10:47:06 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 518
+10:48:05 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 52
+10:48:05 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+10:48:12 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 522
+10:48:26 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 52
+10:48:26 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+10:48:52 a.m.: El sistema no puede encontrar el archivo especificadocs:línea 47
+10:48:52 a.m.: Referencia a objeto no establecida como instancia de un objeto.cs:línea 30
+10:49:03 a.m.: El sistema no puede encontrar el archivo especificadocs:línea 47
+10:49:03 a.m.: Referencia a objeto no establecida como instancia de un objeto.cs:línea 30
+10:49:07 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 521
+10:49:22 a.m.: El sistema no puede encontrar el archivo especificadocs:línea 47
+10:49:22 a.m.: Referencia a objeto no establecida como instancia de un objeto.cs:línea 30
+10:49:36 a.m.: El sistema no puede encontrar el archivo especificadocs:línea 47
+10:49:36 a.m.: Referencia a objeto no establecida como instancia de un objeto.cs:línea 30
+10:49:45 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 521
+10:52:50 a.m.: El sistema no puede encontrar el archivo especificadocs:línea 49
+10:52:50 a.m.: Referencia a objeto no establecida como instancia de un objeto.cs:línea 30
+10:52:53 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 522
+10:54:08 a.m.: El sistema no puede encontrar el archivo especificadocs:línea 49
+10:54:08 a.m.: Referencia a objeto no establecida como instancia de un objeto.cs:línea 30
+10:54:21 a.m.: El sistema no puede encontrar el archivo especificadocs:línea 49
+10:54:21 a.m.: Referencia a objeto no establecida como instancia de un objeto.cs:línea 30
+10:57:04 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 53
+10:57:04 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+10:57:08 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 523
+11:24:26 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 48
+11:24:26 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+11:24:30 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 518
+11:30:14 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 48
+11:30:14 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+11:32:51 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 48
+11:32:51 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+11:32:56 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 523
+11:34:28 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 52
+11:34:28 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+11:37:48 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 48
+11:37:48 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+11:37:50 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 523
+11:40:14 a.m.: Se interrumpió el acceso a la red. Para continuar, cierre la base de datos y vuelva a abrirla.cs:línea 48
+11:40:14 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 34
+11:40:18 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 523

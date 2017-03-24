@@ -1,0 +1,10 @@
+
+10:52:21 p.m.: Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder 190.156.229.243:8888s:línea 169
+10:52:22 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 417
+10:52:22 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 368
+10:52:22 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 354
+11:06:07 p.m.: Se ha anulado una conexión establecida por el software en su equipo hosts:línea 196
+11:10:54 p.m.: Operación no válida a través de subprocesos: Se tuvo acceso al control 'LCon' desde un subproceso distinto a aquel en que lo creó.s:línea 229
+11:11:35 p.m.: Operación no válida a través de subprocesos: Se tuvo acceso al control 'LCon' desde un subproceso distinto a aquel en que lo creó.s:línea 229
+11:11:57 p.m.: Operación no válida a través de subprocesos: Se tuvo acceso al control 'LCon' desde un subproceso distinto a aquel en que lo creó.s:línea 229
+11:12:41 p.m.: Operación no válida a través de subprocesos: Se tuvo acceso al control 'LCon' desde un subproceso distinto a aquel en que lo creó.s:línea 229

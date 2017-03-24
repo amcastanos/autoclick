@@ -1,0 +1,7 @@
+
+10:04:51 a.m.: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 388
+11:05:23 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 159
+11:07:55 a.m.: Error en la operación solicitada del Portapapeles.s:línea 524
+11:08:22 a.m.: Error en la operación solicitada del Portapapeles.s:línea 524
+11:09:03 a.m.: Error en la operación solicitada del Portapapeles.s:línea 524
+11:09:33 a.m.: Error en la operación solicitada del Portapapeles.s:línea 524

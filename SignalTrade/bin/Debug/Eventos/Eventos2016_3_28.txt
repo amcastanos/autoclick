@@ -1,0 +1,85 @@
+
+16:41:44: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 539
+16:58:17: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 539
+17:12:53: StartIndex no puede ser inferior a cero.
+Nombre del parámetro: startIndexcs:línea 76
+17:12:55: Referencia a objeto no establecida como instancia de un objeto.s:línea 310
+17:13:02: Referencia a objeto no establecida como instancia de un objeto.s:línea 688
+17:22:02: StartIndex no puede ser inferior a cero.
+Nombre del parámetro: startIndexcs:línea 76
+17:22:20: Referencia a objeto no establecida como instancia de un objeto.s:línea 310
+17:23:03: Referencia a objeto no establecida como instancia de un objeto.s:línea 520
+17:23:03: StartIndex no puede ser inferior a cero.
+Nombre del parámetro: startIndexs:línea 147
+17:24:04: Referencia a objeto no establecida como instancia de un objeto.s:línea 520
+17:24:04: StartIndex no puede ser inferior a cero.
+Nombre del parámetro: startIndexs:línea 147
+17:25:05: Referencia a objeto no establecida como instancia de un objeto.s:línea 520
+17:25:05: StartIndex no puede ser inferior a cero.
+Nombre del parámetro: startIndexs:línea 147
+17:26:06: Referencia a objeto no establecida como instancia de un objeto.s:línea 520
+17:26:06: StartIndex no puede ser inferior a cero.
+Nombre del parámetro: startIndexs:línea 147
+17:27:07: Referencia a objeto no establecida como instancia de un objeto.s:línea 520
+17:27:07: StartIndex no puede ser inferior a cero.
+Nombre del parámetro: startIndexs:línea 147
+17:28:09: Referencia a objeto no establecida como instancia de un objeto.s:línea 520
+17:28:09: StartIndex no puede ser inferior a cero.
+Nombre del parámetro: startIndexs:línea 147
+17:29:11: Referencia a objeto no establecida como instancia de un objeto.s:línea 520
+18:41:07: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 553
+18:49:03: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:03: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:03: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:08: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:08: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:09: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:09: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:10: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:10: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:10: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:11: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:11: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:12: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:12: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:12: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:13: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:13: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:14: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:14: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:15: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:15: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:15: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:16: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:16: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:17: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:17: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:17: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:18: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:18: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:19: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:19: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:19: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:20: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:20: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:21: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:21: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:21: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:22: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:22: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:23: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:23: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:23: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:24: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:24: No se puede reconocer la cadena como valor DateTime válido.s:línea 164
+18:49:50: No se puede reconocer la cadena como valor DateTime válido.ventArgs e)
+18:49:50: No se puede reconocer la cadena como valor DateTime válido.ventArgs e)
+18:49:51: No se puede reconocer la cadena como valor DateTime válido.ventArgs e)
+18:49:51: No se puede reconocer la cadena como valor DateTime válido.ventArgs e)
+18:49:51: No se puede reconocer la cadena como valor DateTime válido.ventArgs e)
+18:49:52: No se puede reconocer la cadena como valor DateTime válido.ventArgs e)
+18:49:52: No se puede reconocer la cadena como valor DateTime válido.ventArgs e)
+18:49:58: No se puede reconocer la cadena como valor DateTime válido.ventArgs e)
+19:12:47: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 575
+19:24:28: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 575
+19:54:33: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 573

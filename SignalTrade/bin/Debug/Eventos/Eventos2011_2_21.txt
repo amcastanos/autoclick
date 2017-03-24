@@ -1,0 +1,6 @@
+
+08:16:47 a.m.: No se pudo encontrar el archivo 'D:\MiDocumentos\Visual Studio 2010\Projects\SignalTrade\SignalTrade\bin\Debug\Autoclick.accdb'.cs:línea 47
+08:16:47 a.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 32
+08:16:51 a.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 511
+10:28:15 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 378

@@ -1,0 +1,15 @@
+
+10:41:37 a.m.: Se intentó realizar una operación en un elemento que no es un socketcs:line 328
+11:07:37 a.m.: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtocs:line 526
+11:09:12 a.m.: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtocs:line 526
+11:09:33 a.m.: La tabla 'Noticias' está abierta en modo exclusivo por otro usuario o ya está abierta mediante la interfaz de usuario y no se puede manipular mediante código..cs:line 75
+11:09:34 a.m.: Object reference not set to an instance of an object.cs:line 296
+11:09:59 a.m.: Object reference not set to an instance of an object.cs:line 674
+11:10:08 a.m.: La tabla 'Noticias' está abierta en modo exclusivo por otro usuario o ya está abierta mediante la interfaz de usuario y no se puede manipular mediante código..cs:line 75
+11:10:18 a.m.: Object reference not set to an instance of an object.cs:line 296
+11:17:16 a.m.: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtocs:line 528
+11:31:40 a.m.: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtocs:line 528
+12:28:20 p.m.: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtocs:line 539
+12:40:23 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotocs:line 539
+12:45:31 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotocs:line 539
+12:46:36 p.m.: No se permitió una solicitud para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtocs:line 539

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <RutaDB>
+    <DB>
+      <Ruta>Autoclick.accdb</Ruta>
+      <Clave>UXXHNQ</Clave>
+    </DB>
+  </RutaDB>
+  <URL>
+    <web>http://www.autoclicknews.com/</web>
+    <PORTSER>8120</PORTSER>
+  </URL>
+  <Tablas>
+    <Tabla>
+      <Nombre>Usuarios</Nombre>
+    </Tabla>
+    <Tabla>
+      <Nombre>Noticias</Nombre>
+    </Tabla>
+  </Tablas>
+  <Version>
+    <numero>1</numero>
+  </Version>
+  <Servicios>
+    <VIP>false</VIP>
+  </Servicios>
+  <Mail>
+    <Email>inversionenlinea.com@gmail.com</Email>
+    <Clave>fsi|y~zu</Clave>
+    <Host>smtp.gmail.com</Host>
+    <Port>587</Port>
+  </Mail>
+</Config>

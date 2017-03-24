@@ -1,0 +1,9 @@
+
+14:14:59: Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder 190.156.229.243:8888s:línea 190
+14:15:11: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 439
+14:15:12: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 390
+14:15:12: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 376
+14:16:21: Acceso denegado a la ruta de acceso 'D:\MiDocumentos\Visual Studio 2010\Projects\SignalTrade\WindowsFormsApplication1\bin\Debug\SignalCliente.exe.config'.cs:línea 95
+14:23:08: Acceso denegado a la ruta de acceso 'D:\MiDocumentos\Visual Studio 2010\Projects\SignalTrade\WindowsFormsApplication1\bin\Debug\SignalCliente.exe.config'.cs:línea 95
+02:37:45 p.m.: No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión 190.84.72.178:8888s:línea 190
+02:37:46 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 439

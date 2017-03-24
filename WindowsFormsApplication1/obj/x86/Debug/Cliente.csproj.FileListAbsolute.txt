@@ -1,0 +1,44 @@
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PPal.resources
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\WindowsFormsApplication1\bin\Debug\SignalCliente.exe.config
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\WindowsFormsApplication1\bin\Debug\SignalCliente.exe
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\WindowsFormsApplication1\bin\Debug\SignalCliente.pdb
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\WindowsFormsApplication1\obj\x86\Debug\SignalCliente.exe
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\WindowsFormsApplication1\obj\x86\Debug\SignalCliente.pdb
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PPal.resources
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\WindowsFormsApplication1\bin\Debug\AutoclicikNCliente.exe.config
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\WindowsFormsApplication1\bin\Debug\AutoclicikNCliente.exe
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\WindowsFormsApplication1\bin\Debug\AutoclicikNCliente.pdb
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\WindowsFormsApplication1\obj\x86\Debug\AutoclicikNCliente.exe
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\WindowsFormsApplication1\obj\x86\Debug\AutoclicikNCliente.pdb
+C:\Users\Tina\Documents\Visual Studio 2010\Projects\Copia de SignalTrade\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\Tina\Documents\Visual Studio 2010\Projects\Copia de SignalTrade\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PPal.resources
+C:\Users\Tina\Documents\Visual Studio 2010\Projects\Copia de SignalTrade\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Tina\Documents\Visual Studio 2010\Projects\Copia de SignalTrade\WindowsFormsApplication1\obj\x86\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Tina\Documents\Visual Studio 2010\Projects\Copia de SignalTrade\WindowsFormsApplication1\obj\x86\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Documents\Visual Studio 2010\Projects\Copia de SignalTrade\WindowsFormsApplication1\bin\Debug\AutoclicikCliente.exe.config
+C:\Users\Tina\Documents\Visual Studio 2010\Projects\Copia de SignalTrade\WindowsFormsApplication1\bin\Debug\AutoclicikCliente.exe
+C:\Users\Tina\Documents\Visual Studio 2010\Projects\Copia de SignalTrade\WindowsFormsApplication1\bin\Debug\AutoclicikCliente.pdb
+C:\Users\Tina\Documents\Visual Studio 2010\Projects\Copia de SignalTrade\WindowsFormsApplication1\obj\x86\Debug\AutoclicikCliente.exe
+C:\Users\Tina\Documents\Visual Studio 2010\Projects\Copia de SignalTrade\WindowsFormsApplication1\obj\x86\Debug\AutoclicikCliente.pdb
+C:\Users\Tina\Documents\Visual Studio 2010\Projects\Copia de SignalTrade\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Plan.resources
+C:\Users\TINA\Documents\Visual Studio 2010\Projects\Copia de SignalTrade - copia\WindowsFormsApplication1\bin\Debug\AutoclicikCliente.exe.config
+C:\Users\TINA\Documents\Visual Studio 2010\Projects\Copia de SignalTrade - copia\WindowsFormsApplication1\obj\x86\Debug\AutoclicikCliente.exe
+C:\Users\TINA\Documents\Visual Studio 2010\Projects\Copia de SignalTrade - copia\WindowsFormsApplication1\obj\x86\Debug\AutoclicikCliente.pdb
+C:\Users\TINA\Documents\Visual Studio 2010\Projects\Copia de SignalTrade - copia\WindowsFormsApplication1\bin\Debug\AutoclicikCliente.exe
+C:\Users\TINA\Documents\Visual Studio 2010\Projects\Copia de SignalTrade - copia\WindowsFormsApplication1\bin\Debug\AutoclicikCliente.pdb
+C:\Users\TINA\Documents\Visual Studio 2010\Projects\Copia de SignalTrade - copia\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\TINA\Documents\Visual Studio 2010\Projects\Copia de SignalTrade - copia\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.PPal.resources
+C:\Users\TINA\Documents\Visual Studio 2010\Projects\Copia de SignalTrade - copia\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Plan.resources
+C:\Users\TINA\Documents\Visual Studio 2010\Projects\Copia de SignalTrade - copia\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\TINA\Documents\Visual Studio 2010\Projects\Copia de SignalTrade - copia\WindowsFormsApplication1\obj\x86\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\TINA\Documents\Visual Studio 2010\Projects\Copia de SignalTrade - copia\WindowsFormsApplication1\obj\x86\Debug\Cliente.csprojResolveAssemblyReference.cache

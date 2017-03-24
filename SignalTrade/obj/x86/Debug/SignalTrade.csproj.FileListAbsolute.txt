@@ -1,0 +1,52 @@
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\SignalTrade\bin\Debug\SignalTrade.exe
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\SignalTrade\bin\Debug\SignalTrade.pdb
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\SignalTrade\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\SignalTrade\obj\x86\Debug\SignalTrade.Inicio.resources
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\SignalTrade\obj\x86\Debug\SignalTrade.Properties.Resources.resources
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\SignalTrade\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\SignalTrade\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\SignalTrade\obj\x86\Debug\SignalTrade.exe
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\SignalTrade\obj\x86\Debug\SignalTrade.pdb
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\SignalTrade\obj\x86\Debug\SignalTrade.Login.resources
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\SignalTrade\obj\x86\Debug\SignalTrade.PPal.resources
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\SignalTrade\obj\x86\Debug\SignalTrade.ACD.resources
+d:\midocumentos\visual studio 2010\Projects\SignalTrade\SignalTrade\obj\x86\Debug\SignalTrade.Usuarios.resources
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\obj\x86\Debug\SignalTrade.Inicio.resources
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\obj\x86\Debug\SignalTrade.Login.resources
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\obj\x86\Debug\SignalTrade.PPal.resources
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\obj\x86\Debug\SignalTrade.ACD.resources
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\obj\x86\Debug\SignalTrade.Usuarios.resources
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\obj\x86\Debug\SignalTrade.Properties.Resources.resources
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MiDocumentos\Visual Studio 2010\Projects\Autoclicknews\SignalTrade\obj\x86\Debug\SignalTrade.exe
+D:\MiDocumentos\Visual Studio 2010\Projects\Autoclicknews\SignalTrade\obj\x86\Debug\SignalTrade.pdb
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\bin\Debug\Autoclick News.exe
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\bin\Debug\Autoclick News.pdb
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\obj\x86\Debug\Autoclick News.exe
+D:\MiDocumentos\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\obj\x86\Debug\Autoclick News.pdb
+C:\Users\Tina\Documents\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\obj\x86\Debug\Autoclick News.exe
+C:\Users\Tina\Documents\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\obj\x86\Debug\Autoclick News.pdb
+C:\Users\Tina\Documents\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\bin\Debug\Autoclick News.exe
+C:\Users\Tina\Documents\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\bin\Debug\Autoclick News.pdb
+C:\Users\Tina\Documents\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\obj\x86\Debug\SignalTrade.Inicio.resources
+C:\Users\Tina\Documents\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\obj\x86\Debug\SignalTrade.Login.resources
+C:\Users\Tina\Documents\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\obj\x86\Debug\SignalTrade.PPal.resources
+C:\Users\Tina\Documents\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\obj\x86\Debug\SignalTrade.ACD.resources
+C:\Users\Tina\Documents\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\obj\x86\Debug\SignalTrade.Usuarios.resources
+C:\Users\Tina\Documents\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\obj\x86\Debug\SignalTrade.Properties.Resources.resources
+C:\Users\Tina\Documents\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\obj\x86\Debug\SignalTrade.csprojResolveAssemblyReference.cache
+C:\Users\Tina\Documents\Visual Studio 2010\Projects\Copia de SignalTrade\SignalTrade\obj\x86\Debug\SignalTrade.csproj.GenerateResource.Cache
+C:\Users\TINA\Documents\Visual Studio 2010\Projects\Copia de SignalTrade - copia\SignalTrade\obj\x86\Debug\SignalTrade.csprojResolveAssemblyReference.cache
+C:\Users\TINA\Documents\Visual Studio 2010\Projects\Copia de SignalTrade - copia\SignalTrade\obj\x86\Debug\SignalTrade.Inicio.resources
+C:\Users\TINA\Documents\Visual Studio 2010\Projects\Copia de SignalTrade - copia\SignalTrade\obj\x86\Debug\SignalTrade.Login.resources
+C:\Users\TINA\Documents\Visual Studio 2010\Projects\Copia de SignalTrade - copia\SignalTrade\obj\x86\Debug\SignalTrade.PPal.resources
+C:\Users\TINA\Documents\Visual Studio 2010\Projects\Copia de SignalTrade - copia\SignalTrade\obj\x86\Debug\SignalTrade.Usuarios.resources
+C:\Users\TINA\Documents\Visual Studio 2010\Projects\Copia de SignalTrade - copia\SignalTrade\obj\x86\Debug\SignalTrade.Properties.Resources.resources
+C:\Users\TINA\Documents\Visual Studio 2010\Projects\Copia de SignalTrade - copia\SignalTrade\obj\x86\Debug\SignalTrade.csproj.GenerateResource.Cache
+C:\Users\TINA\Documents\Visual Studio 2010\Projects\Copia de SignalTrade - copia\SignalTrade\obj\x86\Debug\SignalTrade.Calendario.resources
+C:\Users\TINA\Documents\Visual Studio 2010\Projects\Copia de SignalTrade - copia\SignalTrade\bin\Debug\Autoclick News Institucional.exe
+C:\Users\TINA\Documents\Visual Studio 2010\Projects\Copia de SignalTrade - copia\SignalTrade\bin\Debug\Autoclick News Institucional.pdb
+C:\Users\TINA\Documents\Visual Studio 2010\Projects\Copia de SignalTrade - copia\SignalTrade\obj\x86\Debug\Autoclick News Institucional.exe
+C:\Users\TINA\Documents\Visual Studio 2010\Projects\Copia de SignalTrade - copia\SignalTrade\obj\x86\Debug\Autoclick News Institucional.pdb

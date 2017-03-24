@@ -1,0 +1,10 @@
+
+06:57:02 p.m.: No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión 186.81.133.183:8888s:línea 107
+06:57:04 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 332
+06:57:04 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 283
+06:57:04 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 269
+07:55:20 p.m.: No se puede convertir un objeto de tipo 'System.Windows.Forms.GroupBox' al tipo 'System.Windows.Forms.Button'.cs:línea 53
+10:02:33 p.m.: No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión 190.157.40.212:8888s:línea 156
+10:02:35 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 381
+10:02:35 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 332
+10:02:35 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 318

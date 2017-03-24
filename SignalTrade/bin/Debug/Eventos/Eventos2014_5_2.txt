@@ -1,0 +1,39 @@
+
+06:20:57 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 472
+06:38:32 p.m.: El motor de base de datos de Microsoft Access no puede encontrar la tabla o consulta de entrada 'UsuariosNoticias'. Asegúrese de que existe y de que el nombre está escrito correctamente.cs:línea 71
+06:38:32 p.m.: No se puede enlazar con el nuevo miembro de presentación.
+Nombre del parámetro: newDisplayMembercs:línea 40
+06:38:37 p.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 621
+07:46:06 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 478
+08:07:15 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 478
+08:11:01 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 478
+08:37:07 p.m.: No se puede convertir un objeto de tipo 'System.Windows.Forms.DataGridViewRow' al tipo 'System.Data.DataRow'.s:línea 840
+08:37:45 p.m.: No se puede convertir un objeto de tipo 'System.Windows.Forms.DataGridViewRow' al tipo 'System.Data.DataRow'.s:línea 840
+08:37:56 p.m.: No se puede convertir un objeto de tipo 'System.Windows.Forms.DataGridViewRow' al tipo 'System.Data.DataRow'.s:línea 840
+08:38:34 p.m.: No se puede convertir un objeto de tipo 'System.Windows.Forms.DataGridViewRow' al tipo 'System.Data.DataRow'.s:línea 840
+08:38:51 p.m.: No se puede convertir un objeto de tipo 'System.Windows.Forms.DataGridViewRow' al tipo 'System.Data.DataRow'.s:línea 840
+08:52:04 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 486
+08:54:49 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 486
+09:02:36 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 486
+09:29:49 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 486
+09:32:16 p.m.: La tabla 'Noticias' está abierta en modo exclusivo por otro usuario o ya está abierta mediante la interfaz de usuario y no se puede manipular mediante código.cs:línea 71
+09:32:18 p.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 256
+09:32:43 p.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 634
+09:32:54 p.m.: La tabla 'Noticias' está abierta en modo exclusivo por otro usuario o ya está abierta mediante la interfaz de usuario y no se puede manipular mediante código.cs:línea 71
+09:32:54 p.m.: La tabla 'Noticias' está abierta en modo exclusivo por otro usuario o ya está abierta mediante la interfaz de usuario y no se puede manipular mediante código.cs:línea 71
+09:32:56 p.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 256
+09:33:13 p.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 256
+09:33:17 p.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 634
+09:33:32 p.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 634
+09:33:45 p.m.: La tabla 'Noticias' está abierta en modo exclusivo por otro usuario o ya está abierta mediante la interfaz de usuario y no se puede manipular mediante código.cs:línea 71
+09:33:47 p.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 256
+09:34:46 p.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 466
+09:35:10 p.m.: Referencia a objeto no establecida como instancia de un objeto.s:línea 634
+09:50:23 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 486
+09:52:19 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 486
+10:41:04 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 486
+11:01:43 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 486
+11:10:58 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 494
+11:18:26 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 494
+11:25:10 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 494
+11:27:52 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 494

@@ -1,0 +1,44 @@
+
+01:21:07 p.m.: Se ha proporcionado un argumento no válidos:línea 328
+01:26:48 p.m.: No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión 186.81.133.183:8888s:línea 107
+01:26:49 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 328
+01:26:49 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 283
+01:26:49 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 269
+09:57:00 p.m.: No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión 186.81.133.183:8888s:línea 107
+09:57:01 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 328
+09:57:01 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 283
+09:57:01 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 269
+09:57:15 p.m.: No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión 186.81.133.183:8888s:línea 107
+09:57:16 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 328
+09:57:16 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 283
+09:57:16 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 269
+10:00:40 p.m.: No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión 186.81.133.183:8888s:línea 107
+10:00:41 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 328
+10:00:41 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 283
+10:00:41 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 269
+10:03:12 p.m.: No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión 186.81.133.183:8888s:línea 107
+10:03:13 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 332
+10:03:13 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 283
+10:03:13 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 269
+10:04:48 p.m.: No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión 186.81.133.183:8888s:línea 107
+10:04:49 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 332
+10:04:50 p.m.: No se pudo encontrar el archivo 'D:\MiDocumentos\Visual Studio 2010\Projects\SignalTrade\WindowsFormsApplication1\bin\Debug\Cliente.exe.config'.cs:línea 30
+10:04:50 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 283
+10:04:50 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 269
+10:05:02 p.m.: No se pudo encontrar el archivo 'D:\MiDocumentos\Visual Studio 2010\Projects\SignalTrade\WindowsFormsApplication1\bin\Debug\Cliente.exe.config'.cs:línea 30
+10:05:07 p.m.: Documento XML no válido. El documento no tiene un elemento raíz.cs:línea 95
+10:05:44 p.m.: No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión 186.81.133.183:8888s:línea 107
+10:05:45 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 332
+10:05:45 p.m.: No se pudo encontrar el archivo 'D:\MiDocumentos\Visual Studio 2010\Projects\SignalTrade\WindowsFormsApplication1\bin\Debug\Cliente.exe.config'.cs:línea 30
+10:05:45 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 283
+10:05:45 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 269
+10:05:55 p.m.: No se pudo encontrar el archivo 'D:\MiDocumentos\Visual Studio 2010\Projects\SignalTrade\WindowsFormsApplication1\bin\Debug\Cliente.exe.config'.cs:línea 30
+10:05:57 p.m.: Documento XML no válido. El documento no tiene un elemento raíz.cs:línea 95
+10:06:24 p.m.: No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión 186.81.133.183:8888s:línea 107
+10:06:25 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 332
+10:06:25 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 283
+10:06:26 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 269
+10:06:41 p.m.: No se ha podido establecer conexión ya que el equipo de destino ha denegado activamente dicha conexión 186.81.133.183:8888s:línea 107
+10:06:42 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 332
+10:06:42 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 283
+10:06:42 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 269

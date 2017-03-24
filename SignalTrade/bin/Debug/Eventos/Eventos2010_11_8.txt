@@ -1,0 +1,45 @@
+
+09:43:55 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 377
+09:52:17 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 377
+09:54:04 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 377
+09:55:10 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 377
+09:58:51 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 377
+10:00:06 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 377
+10:03:25 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 377
+10:05:46 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 377
+10:10:18 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 377
+10:16:30 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 377
+10:48:17 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 377
+10:55:21 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 377
+11:54:55 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 377
+12:15:28 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 377
+12:16:31 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 377
+12:19:35 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 384
+12:21:08 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 384
+12:29:22 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 384
+08:44:41 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 384
+08:50:07 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 384
+08:52:35 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 384
+08:56:43 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 384
+09:06:28 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 384
+09:08:06 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 384
+09:08:11 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 384
+09:10:37 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 384
+09:29:57 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 384
+09:51:19 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 385
+09:52:08 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 385
+09:56:14 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 385
+09:56:30 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 385
+09:58:04 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 385
+09:59:28 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 385
+10:00:14 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 385
+10:00:44 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 385
+10:02:28 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 385
+10:03:06 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 385
+10:08:13 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 385
+10:08:55 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 385
+10:08:55 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 385
+10:09:39 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 385
+10:18:54 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 385
+10:21:17 p.m.: No se ha permitido una petición para enviar o recibir datos ya que el socket no está conectado y no se ha proporcionado ninguna dirección, al realizar el envío en un socket de datagramas por medio de una llamada sendtos:línea 385
+10:24:37 p.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 385

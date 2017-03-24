@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <IPSERVIDOR>
+	<IP>170.75.195.165</IP>	
+  </IPSERVIDOR>
+  <PTOSERVIDOR>
+	<PTO>8120</PTO>
+  </PTOSERVIDOR>
+  <Version>
+	<Numero>2</Numero>
+  </Version>
+  <DATOS>
+	<Usuario></Usuario>
+	<URL>http://www.inversionenlinea.com/</URL>
+  </DATOS> 
+
+</Config>

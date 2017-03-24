@@ -1,0 +1,2 @@
+
+08:58:38 a.m.: Se ha forzado la interrupción de una conexión existente por el host remotos:línea 472
